@@ -1,9 +1,3 @@
-//
-//  ExamReminderAppUITests.swift
-//  ExamReminderAppUITests
-//
-//  Created by Burak Gunduz on 25.06.2024.
-//
 
 import XCTest
 

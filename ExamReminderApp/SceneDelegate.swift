@@ -1,10 +1,3 @@
-//
-//  SceneDelegate.swift
-//  ExamReminderApp
-//
-//  Created by Burak Gunduz on 25.06.2024.
-//
-
 import UIKit
 
 class SceneDelegate: UIResponder, UIWindowSceneDelegate {
