@@ -1,1 +1,0 @@
-# S-navZamanlay-c-Swift
